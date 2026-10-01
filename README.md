@@ -5,6 +5,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -16,7 +17,14 @@ Contains topicwise list of solved problems.
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0row-sum-in-a-matrix](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/0row-sum-in-a-matrix/) | Easy |
 | [diagonal-sum-in-matrix](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/diagonal-sum-in-matrix/) | Basic |
 
+## Arrays
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0row-sum-in-a-matrix](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/0row-sum-in-a-matrix/) | Easy |
+
 <!---GeeksForGeeks Tags End-->
+
 
