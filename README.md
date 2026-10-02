@@ -6,6 +6,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -24,7 +25,37 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0row-sum-in-a-matrix](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/0row-sum-in-a-matrix/) | Easy |
+| [second-largest](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/second-largest/) | Easy |
+
+## Searching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [second-largest](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/second-largest/) | Easy |
+
+## Find Second Largest Element Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [second-largest](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/second-largest/) | Easy |
 
 <!---GeeksForGeeks Tags End-->
 
 
+
+
+<hr>
+
+
+<!---GeeksForGeeks Companies Start-->
+# GeeksForGeeks Companies
+
+## SAP Labs
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [second-largest](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/second-largest/) | Easy |
+
+## Rockstand
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [second-largest](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/second-largest/) | Easy |
+
+<!---GeeksForGeeks Companies End-->
