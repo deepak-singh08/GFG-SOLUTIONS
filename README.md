@@ -7,6 +7,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -37,12 +38,49 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [second-largest](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/second-largest/) | Easy |
 
+## CPP
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [swap-two-numbers](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/swap-two-numbers/) | Basic |
+
+## Java
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [swap-two-numbers](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/swap-two-numbers/) | Basic |
+
+## Operators
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [swap-two-numbers](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/swap-two-numbers/) | Basic |
+
+## python
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [swap-two-numbers](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/swap-two-numbers/) | Basic |
+
+## JavaScript
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [swap-two-numbers](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/swap-two-numbers/) | Basic |
+
+## C#
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [swap-two-numbers](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/swap-two-numbers/) | Basic |
+
+## Swap Two Numbers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [swap-two-numbers](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/swap-two-numbers/) | Basic |
+
 <!---GeeksForGeeks Tags End-->
 
 
 
 
+
 <hr>
+
 
 
 <!---GeeksForGeeks Companies Start-->
@@ -58,4 +96,10 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [second-largest](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/second-largest/) | Easy |
 
+## Samsung
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [swap-two-numbers](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/swap-two-numbers/) | Basic |
+
 <!---GeeksForGeeks Companies End-->
+
