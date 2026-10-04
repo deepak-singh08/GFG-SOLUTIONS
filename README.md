@@ -8,6 +8,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -41,11 +42,13 @@ Contains topicwise list of solved problems.
 ## CPP
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [start-coding](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/start-coding/) | Basic |
 | [swap-two-numbers](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/swap-two-numbers/) | Basic |
 
 ## Java
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [start-coding](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/start-coding/) | Basic |
 | [swap-two-numbers](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/swap-two-numbers/) | Basic |
 
 ## Operators
@@ -56,16 +59,19 @@ Contains topicwise list of solved problems.
 ## python
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [start-coding](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/start-coding/) | Basic |
 | [swap-two-numbers](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/swap-two-numbers/) | Basic |
 
 ## JavaScript
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [start-coding](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/start-coding/) | Basic |
 | [swap-two-numbers](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/swap-two-numbers/) | Basic |
 
 ## C#
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [start-coding](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/start-coding/) | Basic |
 | [swap-two-numbers](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/swap-two-numbers/) | Basic |
 
 ## Swap Two Numbers
@@ -74,6 +80,7 @@ Contains topicwise list of solved problems.
 | [swap-two-numbers](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/swap-two-numbers/) | Basic |
 
 <!---GeeksForGeeks Tags End-->
+
 
 
 
