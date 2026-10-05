@@ -9,6 +9,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -79,7 +80,13 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [swap-two-numbers](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/swap-two-numbers/) | Basic |
 
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [linked-list-insertion-at-beginning](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/linked-list-insertion-at-beginning/) | Easy |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
