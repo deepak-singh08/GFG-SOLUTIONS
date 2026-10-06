@@ -1,11 +1,17 @@
-class Solution {
-    public int absolute(int n) {
-        // code here
-                if (n < 0) {
-                    return -n;
-                } else {
-                    return n;
-                }
-            }
-        }
+import java.util.Scanner;
 
+class GFG {
+    public static void main(String[] args) {
+
+        
+        // code here
+        Scanner sc = new Scanner(System.in);
+                String s = sc.nextLine();
+                int n = sc.nextInt() ;
+                float f = sc.nextFloat() ;
+                int ff = (int)f ; // To Store floor of float variable f
+        System.out.println(s);
+        System.out.println(n);
+        System.out.println(ff);
+    }
+}
