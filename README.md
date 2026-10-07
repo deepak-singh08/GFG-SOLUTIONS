@@ -11,6 +11,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -44,12 +45,14 @@ Contains topicwise list of solved problems.
 ## CPP
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [decision-making](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/decision-making/) | Basic |
 | [start-coding](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/start-coding/) | Basic |
 | [swap-two-numbers](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/swap-two-numbers/) | Basic |
 
 ## Java
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [decision-making](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/decision-making/) | Basic |
 | [start-coding](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/start-coding/) | Basic |
 | [swap-two-numbers](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/swap-two-numbers/) | Basic |
 
@@ -61,18 +64,21 @@ Contains topicwise list of solved problems.
 ## python
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [decision-making](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/decision-making/) | Basic |
 | [start-coding](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/start-coding/) | Basic |
 | [swap-two-numbers](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/swap-two-numbers/) | Basic |
 
 ## JavaScript
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [decision-making](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/decision-making/) | Basic |
 | [start-coding](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/start-coding/) | Basic |
 | [swap-two-numbers](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/swap-two-numbers/) | Basic |
 
 ## C#
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [decision-making](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/decision-making/) | Basic |
 | [start-coding](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/start-coding/) | Basic |
 | [swap-two-numbers](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/swap-two-numbers/) | Basic |
 
@@ -86,7 +92,13 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [linked-list-insertion-at-beginning](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/linked-list-insertion-at-beginning/) | Easy |
 
+## python-conditionals
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [decision-making](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/decision-making/) | Basic |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
