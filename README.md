@@ -13,6 +13,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -46,6 +47,7 @@ Contains topicwise list of solved problems.
 ## CPP
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [calculator](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/calculator/) | Easy |
 | [decision-making](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/decision-making/) | Basic |
 | [start-coding](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/start-coding/) | Basic |
 | [swap-two-numbers](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/swap-two-numbers/) | Basic |
@@ -53,6 +55,7 @@ Contains topicwise list of solved problems.
 ## Java
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [calculator](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/calculator/) | Easy |
 | [decision-making](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/decision-making/) | Basic |
 | [start-coding](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/start-coding/) | Basic |
 | [swap-two-numbers](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/swap-two-numbers/) | Basic |
@@ -98,7 +101,18 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [decision-making](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/decision-making/) | Basic |
 
+## CPP-Control-Flow
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [calculator](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/calculator/) | Easy |
+
+## C Program To Make A Simple Calculator
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [calculator](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/calculator/) | Easy |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
