@@ -17,6 +17,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -130,7 +131,13 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [learn-to-comment](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/learn-to-comment/) | Basic |
 
+## Mathematics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0sum-of-odd-and-even](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/0sum-of-odd-and-even/) | Basic |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
