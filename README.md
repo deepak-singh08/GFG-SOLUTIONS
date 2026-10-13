@@ -18,6 +18,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -36,11 +37,13 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0row-sum-in-a-matrix](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/0row-sum-in-a-matrix/) | Easy |
+| [array-search](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/array-search/) | Basic |
 | [second-largest](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/second-largest/) | Easy |
 
 ## Searching
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [array-search](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/array-search/) | Basic |
 | [second-largest](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/second-largest/) | Easy |
 
 ## Find Second Largest Element Array
@@ -136,7 +139,23 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0sum-of-odd-and-even](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/0sum-of-odd-and-even/) | Basic |
 
+## Cpp Program For Linear Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [array-search](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/array-search/) | Basic |
+
+## Java Program For Linear Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [array-search](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/array-search/) | Basic |
+
+## Linear Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [array-search](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/array-search/) | Basic |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
