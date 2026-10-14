@@ -19,6 +19,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -38,6 +39,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0row-sum-in-a-matrix](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/0row-sum-in-a-matrix/) | Easy |
 | [array-search](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/array-search/) | Basic |
+| [kadanes-algorithm](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/kadanes-algorithm/) | Medium |
 | [second-largest](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/second-largest/) | Easy |
 
 ## Searching
@@ -154,7 +156,23 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [array-search](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/array-search/) | Basic |
 
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [kadanes-algorithm](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/kadanes-algorithm/) | Medium |
+
+## Ola Interview Experience Set 10 Ds
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [kadanes-algorithm](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/kadanes-algorithm/) | Medium |
+
+## Largest Sum Contiguous Subarray
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [kadanes-algorithm](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/kadanes-algorithm/) | Medium |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
@@ -175,6 +193,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
@@ -191,7 +210,124 @@ Contains topicwise list of solved problems.
 ## Samsung
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [kadanes-algorithm](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/kadanes-algorithm/) | Medium |
 | [swap-two-numbers](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/swap-two-numbers/) | Basic |
 
+## Zoho
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [kadanes-algorithm](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/kadanes-algorithm/) | Medium |
+
+## Flipkart
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [kadanes-algorithm](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/kadanes-algorithm/) | Medium |
+
+## Morgan Stanley
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [kadanes-algorithm](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/kadanes-algorithm/) | Medium |
+
+## Accolite
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [kadanes-algorithm](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/kadanes-algorithm/) | Medium |
+
+## Amazon
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [kadanes-algorithm](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/kadanes-algorithm/) | Medium |
+
+## Microsoft
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [kadanes-algorithm](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/kadanes-algorithm/) | Medium |
+
+## Snapdeal
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [kadanes-algorithm](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/kadanes-algorithm/) | Medium |
+
+## 24*7 Innovation Labs
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [kadanes-algorithm](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/kadanes-algorithm/) | Medium |
+
+## Citrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [kadanes-algorithm](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/kadanes-algorithm/) | Medium |
+
+## D-E-Shaw
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [kadanes-algorithm](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/kadanes-algorithm/) | Medium |
+
+## FactSet
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [kadanes-algorithm](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/kadanes-algorithm/) | Medium |
+
+## Hike
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [kadanes-algorithm](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/kadanes-algorithm/) | Medium |
+
+## Housing.com
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [kadanes-algorithm](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/kadanes-algorithm/) | Medium |
+
+## MetLife
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [kadanes-algorithm](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/kadanes-algorithm/) | Medium |
+
+## Ola Cabs
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [kadanes-algorithm](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/kadanes-algorithm/) | Medium |
+
+## Oracle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [kadanes-algorithm](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/kadanes-algorithm/) | Medium |
+
+## Payu
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [kadanes-algorithm](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/kadanes-algorithm/) | Medium |
+
+## Teradata
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [kadanes-algorithm](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/kadanes-algorithm/) | Medium |
+
+## Visa
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [kadanes-algorithm](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/kadanes-algorithm/) | Medium |
+
+## Walmart
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [kadanes-algorithm](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/kadanes-algorithm/) | Medium |
+
+## Adobe
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [kadanes-algorithm](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/kadanes-algorithm/) | Medium |
+
+## Google
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [kadanes-algorithm](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/kadanes-algorithm/) | Medium |
+
+## Arcesium
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [kadanes-algorithm](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/kadanes-algorithm/) | Medium |
+
 <!---GeeksForGeeks Companies End-->
+
 
