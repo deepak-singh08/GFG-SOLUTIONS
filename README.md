@@ -20,6 +20,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -171,7 +172,18 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [kadanes-algorithm](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/kadanes-algorithm/) | Medium |
 
+## Bit Magic
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [missing-and-repeating](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/missing-and-repeating/) | Easy |
+
+## Find A Repeating And A Missing Number
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [missing-and-repeating](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/missing-and-repeating/) | Easy |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
