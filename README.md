@@ -22,6 +22,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -142,6 +143,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0sum-of-odd-and-even](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/0sum-of-odd-and-even/) | Basic |
+| [prime-number](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/prime-number/) | Easy |
 
 ## Cpp Program For Linear Search
 | Problem Name | Difficulty |
@@ -183,7 +185,18 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [missing-and-repeating](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/missing-and-repeating/) | Easy |
 
+## Prime Number
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [prime-number](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/prime-number/) | Easy |
+
+## Check For Prime Number
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [prime-number](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/prime-number/) | Easy |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
@@ -208,12 +221,14 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
 ## SAP Labs
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [prime-number](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/prime-number/) | Easy |
 | [second-largest](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/second-largest/) | Easy |
 
 ## Rockstand
@@ -251,6 +266,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [kadanes-algorithm](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/kadanes-algorithm/) | Medium |
+| [prime-number](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/prime-number/) | Easy |
 
 ## Microsoft
 | Problem Name | Difficulty |
@@ -342,6 +358,12 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [kadanes-algorithm](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/kadanes-algorithm/) | Medium |
 
+## VMWare
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [prime-number](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/prime-number/) | Easy |
+
 <!---GeeksForGeeks Companies End-->
+
 
 
