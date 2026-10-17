@@ -24,6 +24,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -66,6 +67,7 @@ Contains topicwise list of solved problems.
 | [learn-to-comment](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/learn-to-comment/) | Basic |
 | [start-coding](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/start-coding/) | Basic |
 | [swap-two-numbers](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/swap-two-numbers/) | Basic |
+| [switch-statement](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/switch-statement/) | Basic |
 
 ## Java
 | Problem Name | Difficulty |
@@ -76,6 +78,7 @@ Contains topicwise list of solved problems.
 | [learn-to-comment](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/learn-to-comment/) | Basic |
 | [start-coding](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/start-coding/) | Basic |
 | [swap-two-numbers](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/swap-two-numbers/) | Basic |
+| [switch-statement](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/switch-statement/) | Basic |
 
 ## Operators
 | Problem Name | Difficulty |
@@ -90,6 +93,7 @@ Contains topicwise list of solved problems.
 | [learn-to-comment](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/learn-to-comment/) | Basic |
 | [start-coding](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/start-coding/) | Basic |
 | [swap-two-numbers](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/swap-two-numbers/) | Basic |
+| [switch-statement](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/switch-statement/) | Basic |
 
 ## JavaScript
 | Problem Name | Difficulty |
@@ -99,6 +103,7 @@ Contains topicwise list of solved problems.
 | [learn-to-comment](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/learn-to-comment/) | Basic |
 | [start-coding](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/start-coding/) | Basic |
 | [swap-two-numbers](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/swap-two-numbers/) | Basic |
+| [switch-statement](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/switch-statement/) | Basic |
 
 ## C#
 | Problem Name | Difficulty |
@@ -108,6 +113,7 @@ Contains topicwise list of solved problems.
 | [learn-to-comment](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/learn-to-comment/) | Basic |
 | [start-coding](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/start-coding/) | Basic |
 | [swap-two-numbers](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/swap-two-numbers/) | Basic |
+| [switch-statement](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/switch-statement/) | Basic |
 
 ## Swap Two Numbers
 | Problem Name | Difficulty |
@@ -196,7 +202,13 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [prime-number](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/prime-number/) | Easy |
 
+## Conditional Statements In Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [switch-statement](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/switch-statement/) | Basic |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
