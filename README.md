@@ -26,6 +26,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -66,6 +67,7 @@ Contains topicwise list of solved problems.
 | [calculator](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/calculator/) | Easy |
 | [decision-making](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/decision-making/) | Basic |
 | [learn-to-comment](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/learn-to-comment/) | Basic |
+| [print-gfg-n-times](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/print-gfg-n-times/) | Basic |
 | [start-coding](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/start-coding/) | Basic |
 | [swap-two-numbers](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/swap-two-numbers/) | Basic |
 | [switch-statement](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/switch-statement/) | Basic |
@@ -77,6 +79,7 @@ Contains topicwise list of solved problems.
 | [calculator](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/calculator/) | Easy |
 | [decision-making](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/decision-making/) | Basic |
 | [learn-to-comment](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/learn-to-comment/) | Basic |
+| [print-gfg-n-times](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/print-gfg-n-times/) | Basic |
 | [start-coding](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/start-coding/) | Basic |
 | [swap-two-numbers](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/swap-two-numbers/) | Basic |
 | [switch-statement](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/switch-statement/) | Basic |
@@ -92,6 +95,7 @@ Contains topicwise list of solved problems.
 | [0the-if-statement](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/0the-if-statement/) | Basic |
 | [decision-making](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/decision-making/) | Basic |
 | [learn-to-comment](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/learn-to-comment/) | Basic |
+| [print-gfg-n-times](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/print-gfg-n-times/) | Basic |
 | [start-coding](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/start-coding/) | Basic |
 | [swap-two-numbers](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/swap-two-numbers/) | Basic |
 | [switch-statement](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/switch-statement/) | Basic |
@@ -102,6 +106,7 @@ Contains topicwise list of solved problems.
 | [0the-if-statement](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/0the-if-statement/) | Basic |
 | [decision-making](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/decision-making/) | Basic |
 | [learn-to-comment](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/learn-to-comment/) | Basic |
+| [print-gfg-n-times](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/print-gfg-n-times/) | Basic |
 | [start-coding](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/start-coding/) | Basic |
 | [swap-two-numbers](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/swap-two-numbers/) | Basic |
 | [switch-statement](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/switch-statement/) | Basic |
@@ -112,6 +117,7 @@ Contains topicwise list of solved problems.
 | [0the-if-statement](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/0the-if-statement/) | Basic |
 | [decision-making](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/decision-making/) | Basic |
 | [learn-to-comment](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/learn-to-comment/) | Basic |
+| [print-gfg-n-times](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/print-gfg-n-times/) | Basic |
 | [start-coding](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/start-coding/) | Basic |
 | [swap-two-numbers](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/swap-two-numbers/) | Basic |
 | [switch-statement](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/switch-statement/) | Basic |
@@ -208,7 +214,18 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [switch-statement](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/switch-statement/) | Basic |
 
+## python-loops
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [print-gfg-n-times](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/print-gfg-n-times/) | Basic |
+
+## For Loop In Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [print-gfg-n-times](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/print-gfg-n-times/) | Basic |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
