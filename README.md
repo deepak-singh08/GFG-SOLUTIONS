@@ -28,6 +28,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -178,6 +179,7 @@ Contains topicwise list of solved problems.
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [count-subsets-with-sum](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/count-subsets-with-sum/) | Medium |
 | [kadanes-algorithm](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/kadanes-algorithm/) | Medium |
 
 ## Ola Interview Experience Set 10 Ds
@@ -225,6 +227,11 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [print-gfg-n-times](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/print-gfg-n-times/) | Basic |
 
+## Count Of Subsets With Sum Equal To X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [count-subsets-with-sum](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/count-subsets-with-sum/) | Medium |
+
 <!---GeeksForGeeks Tags End-->
 
 
@@ -251,7 +258,9 @@ Contains topicwise list of solved problems.
 
 
 
+
 <hr>
+
 
 
 
@@ -301,12 +310,14 @@ Contains topicwise list of solved problems.
 ## Amazon
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [count-subsets-with-sum](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/count-subsets-with-sum/) | Medium |
 | [kadanes-algorithm](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/kadanes-algorithm/) | Medium |
 | [prime-number](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/prime-number/) | Easy |
 
 ## Microsoft
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [count-subsets-with-sum](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/count-subsets-with-sum/) | Medium |
 | [kadanes-algorithm](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/kadanes-algorithm/) | Medium |
 
 ## Snapdeal
@@ -399,7 +410,13 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [prime-number](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/prime-number/) | Easy |
 
+## Tesco
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [count-subsets-with-sum](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/count-subsets-with-sum/) | Medium |
+
 <!---GeeksForGeeks Companies End-->
+
 
 
 
