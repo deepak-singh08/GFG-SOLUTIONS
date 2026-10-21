@@ -29,6 +29,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -49,12 +50,14 @@ Contains topicwise list of solved problems.
 | [0row-sum-in-a-matrix](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/0row-sum-in-a-matrix/) | Easy |
 | [array-search](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/array-search/) | Basic |
 | [kadanes-algorithm](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/kadanes-algorithm/) | Medium |
+| [peak-in-array](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/peak-in-array/) | Medium |
 | [second-largest](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/second-largest/) | Easy |
 
 ## Searching
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [array-search](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/array-search/) | Basic |
+| [peak-in-array](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/peak-in-array/) | Medium |
 | [second-largest](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/second-largest/) | Easy |
 
 ## Find Second Largest Element Array
@@ -232,6 +235,16 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [count-subsets-with-sum](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/count-subsets-with-sum/) | Medium |
 
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [peak-in-array](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/peak-in-array/) | Medium |
+
+## Find A Peak In A Given Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [peak-in-array](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/peak-in-array/) | Medium |
+
 <!---GeeksForGeeks Tags End-->
 
 
@@ -259,7 +272,9 @@ Contains topicwise list of solved problems.
 
 
 
+
 <hr>
+
 
 
 
@@ -306,12 +321,14 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [kadanes-algorithm](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/kadanes-algorithm/) | Medium |
+| [peak-in-array](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/peak-in-array/) | Medium |
 
 ## Amazon
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [count-subsets-with-sum](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/count-subsets-with-sum/) | Medium |
 | [kadanes-algorithm](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/kadanes-algorithm/) | Medium |
+| [peak-in-array](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/peak-in-array/) | Medium |
 | [prime-number](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/prime-number/) | Easy |
 
 ## Microsoft
@@ -384,6 +401,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [kadanes-algorithm](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/kadanes-algorithm/) | Medium |
+| [peak-in-array](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/peak-in-array/) | Medium |
 
 ## Walmart
 | Problem Name | Difficulty |
@@ -394,11 +412,13 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [kadanes-algorithm](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/kadanes-algorithm/) | Medium |
+| [peak-in-array](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/peak-in-array/) | Medium |
 
 ## Google
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [kadanes-algorithm](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/kadanes-algorithm/) | Medium |
+| [peak-in-array](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/peak-in-array/) | Medium |
 
 ## Arcesium
 | Problem Name | Difficulty |
@@ -416,6 +436,7 @@ Contains topicwise list of solved problems.
 | [count-subsets-with-sum](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/count-subsets-with-sum/) | Medium |
 
 <!---GeeksForGeeks Companies End-->
+
 
 
 
