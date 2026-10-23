@@ -31,6 +31,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -253,7 +254,18 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0odd-or-even](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/0odd-or-even/) | Easy |
 
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [stack-operations](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/stack-operations/) | Basic |
+
+## Stack Data Structure
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [stack-operations](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/stack-operations/) | Basic |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
