@@ -32,6 +32,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -51,6 +52,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0row-sum-in-a-matrix](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/0row-sum-in-a-matrix/) | Easy |
 | [array-search](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/array-search/) | Basic |
+| [indexes-of-subarray-sum](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/indexes-of-subarray-sum/) | Medium |
 | [kadanes-algorithm](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/kadanes-algorithm/) | Medium |
 | [peak-in-array](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/peak-in-array/) | Medium |
 | [second-largest](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/second-largest/) | Easy |
@@ -59,6 +61,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [array-search](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/array-search/) | Basic |
+| [indexes-of-subarray-sum](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/indexes-of-subarray-sum/) | Medium |
 | [peak-in-array](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/peak-in-array/) | Medium |
 | [second-largest](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/second-largest/) | Easy |
 
@@ -264,6 +267,21 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [stack-operations](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/stack-operations/) | Basic |
 
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [indexes-of-subarray-sum](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/indexes-of-subarray-sum/) | Medium |
+
+## sliding-window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [indexes-of-subarray-sum](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/indexes-of-subarray-sum/) | Medium |
+
+## Find Subarray With Given Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [indexes-of-subarray-sum](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/indexes-of-subarray-sum/) | Medium |
+
 <!---GeeksForGeeks Tags End-->
 
 
@@ -294,7 +312,9 @@ Contains topicwise list of solved problems.
 
 
 
+
 <hr>
+
 
 
 
@@ -348,6 +368,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [count-subsets-with-sum](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/count-subsets-with-sum/) | Medium |
+| [indexes-of-subarray-sum](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/indexes-of-subarray-sum/) | Medium |
 | [kadanes-algorithm](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/kadanes-algorithm/) | Medium |
 | [peak-in-array](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/peak-in-array/) | Medium |
 | [prime-number](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/prime-number/) | Easy |
@@ -421,6 +442,7 @@ Contains topicwise list of solved problems.
 ## Visa
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [indexes-of-subarray-sum](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/indexes-of-subarray-sum/) | Medium |
 | [kadanes-algorithm](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/kadanes-algorithm/) | Medium |
 | [peak-in-array](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/peak-in-array/) | Medium |
 
@@ -438,6 +460,7 @@ Contains topicwise list of solved problems.
 ## Google
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [indexes-of-subarray-sum](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/indexes-of-subarray-sum/) | Medium |
 | [kadanes-algorithm](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/kadanes-algorithm/) | Medium |
 | [peak-in-array](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/peak-in-array/) | Medium |
 
@@ -456,7 +479,13 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [count-subsets-with-sum](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/count-subsets-with-sum/) | Medium |
 
+## Facebook
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [indexes-of-subarray-sum](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/indexes-of-subarray-sum/) | Medium |
+
 <!---GeeksForGeeks Companies End-->
+
 
 
 
