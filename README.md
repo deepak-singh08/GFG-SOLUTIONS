@@ -33,6 +33,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -54,6 +55,7 @@ Contains topicwise list of solved problems.
 | [array-search](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/array-search/) | Basic |
 | [indexes-of-subarray-sum](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/indexes-of-subarray-sum/) | Medium |
 | [kadanes-algorithm](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/kadanes-algorithm/) | Medium |
+| [move-all-zeroes-to-end](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/move-all-zeroes-to-end/) | Easy |
 | [peak-in-array](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/peak-in-array/) | Medium |
 | [second-largest](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/second-largest/) | Easy |
 
@@ -282,7 +284,13 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [indexes-of-subarray-sum](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/indexes-of-subarray-sum/) | Medium |
 
+## Move Zeroes End Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [move-all-zeroes-to-end](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/move-all-zeroes-to-end/) | Easy |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
@@ -323,12 +331,14 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
 ## SAP Labs
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [move-all-zeroes-to-end](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/move-all-zeroes-to-end/) | Easy |
 | [prime-number](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/prime-number/) | Easy |
 | [second-largest](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/second-largest/) | Easy |
 
@@ -341,6 +351,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [kadanes-algorithm](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/kadanes-algorithm/) | Medium |
+| [move-all-zeroes-to-end](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/move-all-zeroes-to-end/) | Easy |
 | [swap-two-numbers](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/swap-two-numbers/) | Basic |
 
 ## Zoho
@@ -370,6 +381,7 @@ Contains topicwise list of solved problems.
 | [count-subsets-with-sum](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/count-subsets-with-sum/) | Medium |
 | [indexes-of-subarray-sum](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/indexes-of-subarray-sum/) | Medium |
 | [kadanes-algorithm](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/kadanes-algorithm/) | Medium |
+| [move-all-zeroes-to-end](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/move-all-zeroes-to-end/) | Easy |
 | [peak-in-array](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/peak-in-array/) | Medium |
 | [prime-number](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/prime-number/) | Easy |
 
@@ -378,6 +390,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [count-subsets-with-sum](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/count-subsets-with-sum/) | Medium |
 | [kadanes-algorithm](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/kadanes-algorithm/) | Medium |
+| [move-all-zeroes-to-end](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/move-all-zeroes-to-end/) | Easy |
 
 ## Snapdeal
 | Problem Name | Difficulty |
@@ -484,7 +497,28 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [indexes-of-subarray-sum](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/indexes-of-subarray-sum/) | Medium |
 
+## Paytm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [move-all-zeroes-to-end](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/move-all-zeroes-to-end/) | Easy |
+
+## Linkedin
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [move-all-zeroes-to-end](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/move-all-zeroes-to-end/) | Easy |
+
+## Bloomberg
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [move-all-zeroes-to-end](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/move-all-zeroes-to-end/) | Easy |
+
+## NPCI
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [move-all-zeroes-to-end](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/move-all-zeroes-to-end/) | Easy |
+
 <!---GeeksForGeeks Companies End-->
+
 
 
 
