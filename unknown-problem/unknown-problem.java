@@ -1,20 +1,28 @@
-import java.util.*;
-
-class GFG {
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-
-        int x = sc.nextInt();
-        int y = sc.nextInt();
-
+class Solution {
+    public void sort012(int[] arr) {
         // code here
-    int p = x + y;
-            int q = x - y;
-            int r = x * y;
-            double s = (double) x / y;
-            int t = x / y;
-            int u = x % y;
+                int low = 0;
+                int mid = 0;
+                int high = arr.length - 1;
 
-        System.out.printf("%d %d %d %.3f %d %d", p, q, r, s, t, u);
-    }
-}
+                while (mid <= high) {
+                    if (arr[mid] == 0) {
+                        int temp = arr[mid];
+                        arr[mid] = arr[low];
+                        arr[low] = temp;
+
+                        low++;
+                        mid++;
+                    } else if (arr[mid] == 1) {
+                        mid++;
+                    } else {
+                        int temp = arr[mid];
+                        arr[mid] = arr[high];
+                        arr[high] = temp;
+
+                        high--;
+                    }
+                }
+            }
+        }
+        
