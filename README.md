@@ -36,6 +36,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -171,6 +172,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0odd-or-even](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/0odd-or-even/) | Easy |
+| [0sum-of-natural-numbers](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/0sum-of-natural-numbers/) | Basic |
 | [0sum-of-odd-and-even](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/0sum-of-odd-and-even/) | Basic |
 | [prime-number](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/prime-number/) | Easy |
 
@@ -292,6 +294,7 @@ Contains topicwise list of solved problems.
 | [move-all-zeroes-to-end](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/move-all-zeroes-to-end/) | Easy |
 
 <!---GeeksForGeeks Tags End-->
+
 
 
 
