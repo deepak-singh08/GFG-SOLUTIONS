@@ -1,0 +1,5 @@
+<h2><a href="https://www.geeksforgeeks.org/problems/sum-of-elements-in-a-matrix2000/1">Sum of Matrix</a></h2><h3>Basic</h3><hr><p><span style="font-size: 18px;">Given an integer matrix <strong>mat[][]</strong>, compute the sum of all its elements.</span></p><p><span style="font-size: 18px;"><strong>Examples:</strong></span></p><pre><span style="font-size: 18px;"><strong>Input: </strong>mat[][] = [[1, 0, 1], [-8, 9, -2]]
+<strong>Output: </strong>1
+<strong>Explanation: </strong>The sum of all elements of the matrix is: (1 + 0 + 1 - 8 + 9 - 2) = 1.</span></pre><pre><span style="font-size: 18px;"><strong>Input: </strong>mat[][] = [[1, 0, 1, 0, 1], [0, 1, 0, 1, 0], [-1, -1, -1, -1, -1]]
+<strong>Output: </strong>0
+<strong>Explanation: </strong>The sum of all elements of the matrix is: (1 + 0 + 1 + 0 + 1 + 0 + 1 + 0 + 1 + 0 - 1 - 1 - 1 - 1 - 1) = 0.</span></pre>
