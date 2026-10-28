@@ -37,6 +37,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -49,6 +50,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0row-sum-in-a-matrix](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/0row-sum-in-a-matrix/) | Easy |
+| [0sum-of-matrix](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/0sum-of-matrix/) | Basic |
 | [diagonal-sum-in-matrix](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/diagonal-sum-in-matrix/) | Basic |
 
 ## Arrays
@@ -293,7 +295,13 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [move-all-zeroes-to-end](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/move-all-zeroes-to-end/) | Easy |
 
+## Find Sum Of All Matrix Elements
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0sum-of-matrix](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/0sum-of-matrix/) | Basic |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
@@ -340,6 +348,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
@@ -365,6 +374,7 @@ Contains topicwise list of solved problems.
 ## Zoho
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0sum-of-matrix](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/0sum-of-matrix/) | Basic |
 | [kadanes-algorithm](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/kadanes-algorithm/) | Medium |
 
 ## Flipkart
@@ -526,6 +536,7 @@ Contains topicwise list of solved problems.
 | [move-all-zeroes-to-end](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/move-all-zeroes-to-end/) | Easy |
 
 <!---GeeksForGeeks Companies End-->
+
 
 
 
