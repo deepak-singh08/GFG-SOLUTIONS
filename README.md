@@ -41,6 +41,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -66,6 +67,7 @@ Contains topicwise list of solved problems.
 | [kadanes-algorithm](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/kadanes-algorithm/) | Medium |
 | [move-all-zeroes-to-end](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/move-all-zeroes-to-end/) | Easy |
 | [peak-in-array](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/peak-in-array/) | Medium |
+| [rotate-array-by-one](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/rotate-array-by-one/) | Basic |
 | [second-largest](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/second-largest/) | Easy |
 
 ## Searching
@@ -309,7 +311,18 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [duplicates-in-limited-range-array](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/duplicates-in-limited-range-array/) | Easy |
 
+## implementation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [rotate-array-by-one](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/rotate-array-by-one/) | Basic |
+
+## C Program Cyclically Rotate Array One
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [rotate-array-by-one](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/rotate-array-by-one/) | Basic |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
