@@ -42,6 +42,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -67,6 +68,7 @@ Contains topicwise list of solved problems.
 | [kadanes-algorithm](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/kadanes-algorithm/) | Medium |
 | [move-all-zeroes-to-end](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/move-all-zeroes-to-end/) | Easy |
 | [peak-in-array](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/peak-in-array/) | Medium |
+| [reverse-array](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/reverse-array/) | Easy |
 | [rotate-array-by-one](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/rotate-array-by-one/) | Basic |
 | [second-largest](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/second-largest/) | Easy |
 
@@ -321,7 +323,13 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [rotate-array-by-one](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/rotate-array-by-one/) | Basic |
 
+## Program To Reverse An Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [reverse-array](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/reverse-array/) | Easy |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
@@ -376,6 +384,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Companies Start-->
 # GeeksForGeeks Companies
 
@@ -415,6 +424,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [kadanes-algorithm](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/kadanes-algorithm/) | Medium |
+| [reverse-array](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/reverse-array/) | Easy |
 
 ## Accolite
 | Problem Name | Difficulty |
@@ -432,6 +442,7 @@ Contains topicwise list of solved problems.
 | [move-all-zeroes-to-end](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/move-all-zeroes-to-end/) | Easy |
 | [peak-in-array](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/peak-in-array/) | Medium |
 | [prime-number](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/prime-number/) | Easy |
+| [reverse-array](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/reverse-array/) | Easy |
 
 ## Microsoft
 | Problem Name | Difficulty |
@@ -439,6 +450,7 @@ Contains topicwise list of solved problems.
 | [count-subsets-with-sum](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/count-subsets-with-sum/) | Medium |
 | [kadanes-algorithm](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/kadanes-algorithm/) | Medium |
 | [move-all-zeroes-to-end](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/move-all-zeroes-to-end/) | Easy |
+| [reverse-array](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/reverse-array/) | Easy |
 
 ## Snapdeal
 | Problem Name | Difficulty |
@@ -518,6 +530,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [kadanes-algorithm](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/kadanes-algorithm/) | Medium |
 | [peak-in-array](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/peak-in-array/) | Medium |
+| [reverse-array](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/reverse-array/) | Easy |
 
 ## Google
 | Problem Name | Difficulty |
@@ -525,6 +538,7 @@ Contains topicwise list of solved problems.
 | [indexes-of-subarray-sum](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/indexes-of-subarray-sum/) | Medium |
 | [kadanes-algorithm](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/kadanes-algorithm/) | Medium |
 | [peak-in-array](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/peak-in-array/) | Medium |
+| [reverse-array](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/reverse-array/) | Easy |
 
 ## Arcesium
 | Problem Name | Difficulty |
@@ -545,6 +559,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [indexes-of-subarray-sum](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/indexes-of-subarray-sum/) | Medium |
+| [reverse-array](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/reverse-array/) | Easy |
 
 ## Paytm
 | Problem Name | Difficulty |
@@ -561,6 +576,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [move-all-zeroes-to-end](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/move-all-zeroes-to-end/) | Easy |
+| [reverse-array](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/reverse-array/) | Easy |
 
 ## NPCI
 | Problem Name | Difficulty |
@@ -572,7 +588,43 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [duplicates-in-limited-range-array](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/duplicates-in-limited-range-array/) | Easy |
 
+## TCS
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [reverse-array](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/reverse-array/) | Easy |
+
+## Infosys
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [reverse-array](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/reverse-array/) | Easy |
+
+## Capgemini
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [reverse-array](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/reverse-array/) | Easy |
+
+## Apple
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [reverse-array](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/reverse-array/) | Easy |
+
+## Yahoo
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [reverse-array](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/reverse-array/) | Easy |
+
+## PayPal
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [reverse-array](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/reverse-array/) | Easy |
+
+## Uber
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [reverse-array](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/reverse-array/) | Easy |
+
 <!---GeeksForGeeks Companies End-->
+
 
 
 
