@@ -43,6 +43,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -66,6 +67,7 @@ Contains topicwise list of solved problems.
 | [duplicates-in-limited-range-array](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/duplicates-in-limited-range-array/) | Easy |
 | [indexes-of-subarray-sum](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/indexes-of-subarray-sum/) | Medium |
 | [kadanes-algorithm](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/kadanes-algorithm/) | Medium |
+| [minimize-the-heights](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/minimize-the-heights/) | Medium |
 | [move-all-zeroes-to-end](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/move-all-zeroes-to-end/) | Easy |
 | [peak-in-array](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/peak-in-array/) | Medium |
 | [reverse-array](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/reverse-array/) | Easy |
@@ -328,6 +330,11 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [reverse-array](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/reverse-array/) | Easy |
 
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [minimize-the-heights](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/minimize-the-heights/) | Medium |
+
 <!---GeeksForGeeks Tags End-->
 
 
@@ -369,7 +376,9 @@ Contains topicwise list of solved problems.
 
 
 
+
 <hr>
+
 
 
 
@@ -449,6 +458,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [count-subsets-with-sum](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/count-subsets-with-sum/) | Medium |
 | [kadanes-algorithm](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/kadanes-algorithm/) | Medium |
+| [minimize-the-heights](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/minimize-the-heights/) | Medium |
 | [move-all-zeroes-to-end](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/move-all-zeroes-to-end/) | Easy |
 | [reverse-array](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/reverse-array/) | Easy |
 
@@ -529,6 +539,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [kadanes-algorithm](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/kadanes-algorithm/) | Medium |
+| [minimize-the-heights](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/minimize-the-heights/) | Medium |
 | [peak-in-array](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/peak-in-array/) | Medium |
 | [reverse-array](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/reverse-array/) | Easy |
 
@@ -624,6 +635,7 @@ Contains topicwise list of solved problems.
 | [reverse-array](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/reverse-array/) | Easy |
 
 <!---GeeksForGeeks Companies End-->
+
 
 
 
