@@ -49,6 +49,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -69,6 +70,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0kth-smallest](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/0kth-smallest/) | Medium |
 | [0row-sum-in-a-matrix](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/0row-sum-in-a-matrix/) | Easy |
+| [array-leaders](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/array-leaders/) | Easy |
 | [array-search](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/array-search/) | Basic |
 | [duplicates-in-limited-range-array](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/duplicates-in-limited-range-array/) | Easy |
 | [first-and-last-in-sorted](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/first-and-last-in-sorted/) | Medium |
@@ -366,15 +368,15 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [detect-loop-in-linked-list](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/detect-loop-in-linked-list/) | Medium |
 
-## Samsung Rnd Bangalore Interview 2018
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [detect-loop-in-linked-list](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/detect-loop-in-linked-list/) | Medium |
-
 ## Detect Loop In A Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [detect-loop-in-linked-list](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/detect-loop-in-linked-list/) | Medium |
+
+## Leaders In An Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [array-leaders](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/array-leaders/) | Easy |
 
 <!---GeeksForGeeks Tags End-->
 
@@ -423,7 +425,9 @@ Contains topicwise list of solved problems.
 
 
 
+
 <hr>
+
 
 
 
@@ -501,6 +505,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0kth-smallest](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/0kth-smallest/) | Medium |
+| [array-leaders](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/array-leaders/) | Easy |
 | [count-subsets-with-sum](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/count-subsets-with-sum/) | Medium |
 | [detect-loop-in-linked-list](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/detect-loop-in-linked-list/) | Medium |
 | [duplicates-in-limited-range-array](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/duplicates-in-limited-range-array/) | Easy |
@@ -584,6 +589,7 @@ Contains topicwise list of solved problems.
 ## Payu
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [array-leaders](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/array-leaders/) | Easy |
 | [kadanes-algorithm](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/kadanes-algorithm/) | Medium |
 
 ## Teradata
@@ -608,6 +614,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0kth-smallest](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/0kth-smallest/) | Medium |
+| [array-leaders](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/array-leaders/) | Easy |
 | [detect-loop-in-linked-list](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/detect-loop-in-linked-list/) | Medium |
 | [kadanes-algorithm](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/kadanes-algorithm/) | Medium |
 | [minimize-the-heights](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/minimize-the-heights/) | Medium |
@@ -754,6 +761,7 @@ Contains topicwise list of solved problems.
 | [detect-loop-in-linked-list](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/detect-loop-in-linked-list/) | Medium |
 
 <!---GeeksForGeeks Companies End-->
+
 
 
 
