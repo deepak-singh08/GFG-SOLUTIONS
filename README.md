@@ -52,6 +52,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -80,6 +81,7 @@ Contains topicwise list of solved problems.
 | [indexes-of-subarray-sum](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/indexes-of-subarray-sum/) | Medium |
 | [kadanes-algorithm](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/kadanes-algorithm/) | Medium |
 | [minimize-the-heights](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/minimize-the-heights/) | Medium |
+| [minimum-distance-in-array](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/minimum-distance-in-array/) | Easy |
 | [move-all-zeroes-to-end](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/move-all-zeroes-to-end/) | Easy |
 | [peak-in-array](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/peak-in-array/) | Medium |
 | [reverse-array](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/reverse-array/) | Easy |
@@ -386,11 +388,6 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0two-sum-pair-with-given-sum](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/0two-sum-pair-with-given-sum/) | Easy |
 
-## Flipkart Interview Experience Set 24
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0two-sum-pair-with-given-sum](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/0two-sum-pair-with-given-sum/) | Easy |
-
 <!---GeeksForGeeks Tags End-->
 
 
@@ -441,7 +438,9 @@ Contains topicwise list of solved problems.
 
 
 
+
 <hr>
+
 
 
 
@@ -535,6 +534,7 @@ Contains topicwise list of solved problems.
 | [first-and-last-in-sorted](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/first-and-last-in-sorted/) | Medium |
 | [indexes-of-subarray-sum](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/indexes-of-subarray-sum/) | Medium |
 | [kadanes-algorithm](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/kadanes-algorithm/) | Medium |
+| [minimum-distance-in-array](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/minimum-distance-in-array/) | Easy |
 | [move-all-zeroes-to-end](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/move-all-zeroes-to-end/) | Easy |
 | [next-greater-element](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/next-greater-element/) | Medium |
 | [peak-in-array](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/peak-in-array/) | Medium |
@@ -688,6 +688,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [detect-loop-in-linked-list](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/detect-loop-in-linked-list/) | Medium |
 | [duplicates-in-limited-range-array](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/duplicates-in-limited-range-array/) | Easy |
+| [minimum-distance-in-array](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/minimum-distance-in-array/) | Easy |
 | [move-all-zeroes-to-end](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/move-all-zeroes-to-end/) | Easy |
 
 ## Linkedin
@@ -799,6 +800,7 @@ Contains topicwise list of solved problems.
 | [0two-sum-pair-with-given-sum](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/0two-sum-pair-with-given-sum/) | Easy |
 
 <!---GeeksForGeeks Companies End-->
+
 
 
 
