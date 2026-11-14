@@ -54,6 +54,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -84,6 +85,7 @@ Contains topicwise list of solved problems.
 | [kadanes-algorithm](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/kadanes-algorithm/) | Medium |
 | [minimize-the-heights](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/minimize-the-heights/) | Medium |
 | [minimum-distance-in-array](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/minimum-distance-in-array/) | Easy |
+| [move-all-negatives-to-end](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/move-all-negatives-to-end/) | Easy |
 | [move-all-zeroes-to-end](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/move-all-zeroes-to-end/) | Easy |
 | [peak-in-array](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/peak-in-array/) | Medium |
 | [reverse-array](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/reverse-array/) | Easy |
@@ -391,6 +393,7 @@ Contains topicwise list of solved problems.
 | [0two-sum-pair-with-given-sum](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/0two-sum-pair-with-given-sum/) | Easy |
 
 <!---GeeksForGeeks Tags End-->
+
 
 
 
