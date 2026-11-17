@@ -56,6 +56,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -81,6 +82,7 @@ Contains topicwise list of solved problems.
 | [array-leaders](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/array-leaders/) | Easy |
 | [array-search](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/array-search/) | Basic |
 | [count-odd-and-even](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/count-odd-and-even/) | Basic |
+| [count-smaller-in-array](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/count-smaller-in-array/) | Basic |
 | [duplicates-in-limited-range-array](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/duplicates-in-limited-range-array/) | Easy |
 | [first-and-last-in-sorted](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/first-and-last-in-sorted/) | Medium |
 | [indexes-of-subarray-sum](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/indexes-of-subarray-sum/) | Medium |
@@ -399,7 +401,13 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [count-odd-and-even](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/count-odd-and-even/) | Basic |
 
+## Count Smaller In An Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [count-smaller-in-array](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/count-smaller-in-array/) | Basic |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
