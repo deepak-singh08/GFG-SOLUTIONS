@@ -58,6 +58,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -96,6 +97,7 @@ Contains topicwise list of solved problems.
 | [reverse-array](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/reverse-array/) | Easy |
 | [rotate-array-by-one](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/rotate-array-by-one/) | Basic |
 | [second-largest](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/second-largest/) | Easy |
+| [smaller-and-larger-in-sorted](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/smaller-and-larger-in-sorted/) | Basic |
 
 ## Searching
 | Problem Name | Difficulty |
@@ -408,6 +410,7 @@ Contains topicwise list of solved problems.
 | [count-smaller-in-array](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/count-smaller-in-array/) | Basic |
 
 <!---GeeksForGeeks Tags End-->
+
 
 
 
