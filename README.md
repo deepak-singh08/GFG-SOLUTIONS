@@ -60,6 +60,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -95,6 +96,7 @@ Contains topicwise list of solved problems.
 | [move-all-negatives-to-end](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/move-all-negatives-to-end/) | Easy |
 | [move-all-zeroes-to-end](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/move-all-zeroes-to-end/) | Easy |
 | [peak-in-array](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/peak-in-array/) | Medium |
+| [reverse-array-in-groups](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/reverse-array-in-groups/) | Basic |
 | [reverse-array](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/reverse-array/) | Easy |
 | [rotate-array-by-one](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/rotate-array-by-one/) | Basic |
 | [second-largest](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/second-largest/) | Easy |
@@ -468,7 +470,9 @@ Contains topicwise list of solved problems.
 
 
 
+
 <hr>
+
 
 
 
@@ -676,6 +680,7 @@ Contains topicwise list of solved problems.
 | [minimize-the-heights](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/minimize-the-heights/) | Medium |
 | [next-greater-element](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/next-greater-element/) | Medium |
 | [peak-in-array](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/peak-in-array/) | Medium |
+| [reverse-array-in-groups](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/reverse-array-in-groups/) | Basic |
 | [reverse-array](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/reverse-array/) | Easy |
 
 ## Google
@@ -829,6 +834,7 @@ Contains topicwise list of solved problems.
 | [0two-sum-pair-with-given-sum](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/0two-sum-pair-with-given-sum/) | Easy |
 
 <!---GeeksForGeeks Companies End-->
+
 
 
 
