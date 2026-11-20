@@ -62,6 +62,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -83,6 +84,7 @@ Contains topicwise list of solved problems.
 | [0kth-smallest](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/0kth-smallest/) | Medium |
 | [0row-sum-in-a-matrix](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/0row-sum-in-a-matrix/) | Easy |
 | [0two-sum-pair-with-given-sum](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/0two-sum-pair-with-given-sum/) | Easy |
+| [array-end-insert](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/array-end-insert/) | Basic |
 | [array-insert-at-index](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/array-insert-at-index/) | Basic |
 | [array-leaders](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/array-leaders/) | Easy |
 | [array-search](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/array-search/) | Basic |
@@ -413,7 +415,13 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [count-smaller-in-array](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/count-smaller-in-array/) | Basic |
 
+## Insert Element At The End Of An Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [array-end-insert](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/array-end-insert/) | Basic |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
