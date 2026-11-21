@@ -63,6 +63,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -84,6 +85,7 @@ Contains topicwise list of solved problems.
 | [0kth-smallest](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/0kth-smallest/) | Medium |
 | [0row-sum-in-a-matrix](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/0row-sum-in-a-matrix/) | Easy |
 | [0two-sum-pair-with-given-sum](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/0two-sum-pair-with-given-sum/) | Easy |
+| [alternate-positive-negative](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/alternate-positive-negative/) | Easy |
 | [array-end-insert](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/array-end-insert/) | Basic |
 | [array-insert-at-index](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/array-insert-at-index/) | Basic |
 | [array-leaders](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/array-leaders/) | Easy |
@@ -481,7 +483,9 @@ Contains topicwise list of solved problems.
 
 
 
+
 <hr>
+
 
 
 
@@ -571,6 +575,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0kth-smallest](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/0kth-smallest/) | Medium |
 | [0two-sum-pair-with-given-sum](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/0two-sum-pair-with-given-sum/) | Easy |
+| [alternate-positive-negative](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/alternate-positive-negative/) | Easy |
 | [array-leaders](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/array-leaders/) | Easy |
 | [count-subsets-with-sum](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/count-subsets-with-sum/) | Medium |
 | [detect-loop-in-linked-list](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/detect-loop-in-linked-list/) | Medium |
@@ -590,6 +595,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0kth-smallest](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/0kth-smallest/) | Medium |
 | [0two-sum-pair-with-given-sum](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/0two-sum-pair-with-given-sum/) | Easy |
+| [alternate-positive-negative](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/alternate-positive-negative/) | Easy |
 | [count-subsets-with-sum](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/count-subsets-with-sum/) | Medium |
 | [first-and-last-in-sorted](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/first-and-last-in-sorted/) | Medium |
 | [kadanes-algorithm](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/kadanes-algorithm/) | Medium |
@@ -714,6 +720,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0kth-smallest](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/0kth-smallest/) | Medium |
+| [alternate-positive-negative](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/alternate-positive-negative/) | Easy |
 | [detect-loop-in-linked-list](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/detect-loop-in-linked-list/) | Medium |
 | [prime-number](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/prime-number/) | Easy |
 
@@ -731,6 +738,7 @@ Contains topicwise list of solved problems.
 ## Paytm
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [alternate-positive-negative](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/alternate-positive-negative/) | Easy |
 | [detect-loop-in-linked-list](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/detect-loop-in-linked-list/) | Medium |
 | [duplicates-in-limited-range-array](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/duplicates-in-limited-range-array/) | Easy |
 | [minimum-distance-in-array](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/minimum-distance-in-array/) | Easy |
@@ -844,7 +852,13 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0two-sum-pair-with-given-sum](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/0two-sum-pair-with-given-sum/) | Easy |
 
+## Intuit
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [alternate-positive-negative](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/alternate-positive-negative/) | Easy |
+
 <!---GeeksForGeeks Companies End-->
+
 
 
 
