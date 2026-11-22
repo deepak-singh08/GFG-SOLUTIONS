@@ -64,6 +64,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -93,6 +94,7 @@ Contains topicwise list of solved problems.
 | [count-odd-and-even](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/count-odd-and-even/) | Basic |
 | [count-smaller-in-array](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/count-smaller-in-array/) | Basic |
 | [duplicates-in-limited-range-array](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/duplicates-in-limited-range-array/) | Easy |
+| [equilibrium-point](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/equilibrium-point/) | Easy |
 | [first-and-last-in-sorted](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/first-and-last-in-sorted/) | Medium |
 | [indexes-of-subarray-sum](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/indexes-of-subarray-sum/) | Medium |
 | [kadanes-algorithm](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/kadanes-algorithm/) | Medium |
@@ -325,6 +327,7 @@ Contains topicwise list of solved problems.
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [equilibrium-point](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/equilibrium-point/) | Easy |
 | [indexes-of-subarray-sum](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/indexes-of-subarray-sum/) | Medium |
 
 ## sliding-window
@@ -422,6 +425,11 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [array-end-insert](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/array-end-insert/) | Basic |
 
+## Equilibrium Index Of An Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [equilibrium-point](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/equilibrium-point/) | Easy |
+
 <!---GeeksForGeeks Tags End-->
 
 
@@ -484,7 +492,9 @@ Contains topicwise list of solved problems.
 
 
 
+
 <hr>
+
 
 
 
@@ -580,6 +590,7 @@ Contains topicwise list of solved problems.
 | [count-subsets-with-sum](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/count-subsets-with-sum/) | Medium |
 | [detect-loop-in-linked-list](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/detect-loop-in-linked-list/) | Medium |
 | [duplicates-in-limited-range-array](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/duplicates-in-limited-range-array/) | Easy |
+| [equilibrium-point](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/equilibrium-point/) | Easy |
 | [first-and-last-in-sorted](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/first-and-last-in-sorted/) | Medium |
 | [indexes-of-subarray-sum](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/indexes-of-subarray-sum/) | Medium |
 | [kadanes-algorithm](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/kadanes-algorithm/) | Medium |
@@ -597,6 +608,7 @@ Contains topicwise list of solved problems.
 | [0two-sum-pair-with-given-sum](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/0two-sum-pair-with-given-sum/) | Easy |
 | [alternate-positive-negative](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/alternate-positive-negative/) | Easy |
 | [count-subsets-with-sum](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/count-subsets-with-sum/) | Medium |
+| [equilibrium-point](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/equilibrium-point/) | Easy |
 | [first-and-last-in-sorted](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/first-and-last-in-sorted/) | Medium |
 | [kadanes-algorithm](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/kadanes-algorithm/) | Medium |
 | [minimize-the-heights](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/minimize-the-heights/) | Medium |
@@ -693,6 +705,7 @@ Contains topicwise list of solved problems.
 | [0two-sum-pair-with-given-sum](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/0two-sum-pair-with-given-sum/) | Easy |
 | [array-leaders](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/array-leaders/) | Easy |
 | [detect-loop-in-linked-list](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/detect-loop-in-linked-list/) | Medium |
+| [equilibrium-point](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/equilibrium-point/) | Easy |
 | [kadanes-algorithm](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/kadanes-algorithm/) | Medium |
 | [minimize-the-heights](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/minimize-the-heights/) | Medium |
 | [next-greater-element](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/next-greater-element/) | Medium |
@@ -705,6 +718,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0kth-smallest](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/0kth-smallest/) | Medium |
 | [0two-sum-pair-with-given-sum](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/0two-sum-pair-with-given-sum/) | Easy |
+| [equilibrium-point](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/equilibrium-point/) | Easy |
 | [first-and-last-in-sorted](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/first-and-last-in-sorted/) | Medium |
 | [indexes-of-subarray-sum](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/indexes-of-subarray-sum/) | Medium |
 | [kadanes-algorithm](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/kadanes-algorithm/) | Medium |
@@ -732,6 +746,7 @@ Contains topicwise list of solved problems.
 ## Facebook
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [equilibrium-point](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/equilibrium-point/) | Easy |
 | [indexes-of-subarray-sum](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/indexes-of-subarray-sum/) | Medium |
 | [reverse-array](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/reverse-array/) | Easy |
 
@@ -799,6 +814,7 @@ Contains topicwise list of solved problems.
 ## Uber
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [equilibrium-point](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/equilibrium-point/) | Easy |
 | [reverse-array](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/reverse-array/) | Easy |
 
 ## ABCO
@@ -858,6 +874,7 @@ Contains topicwise list of solved problems.
 | [alternate-positive-negative](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/alternate-positive-negative/) | Easy |
 
 <!---GeeksForGeeks Companies End-->
+
 
 
 
