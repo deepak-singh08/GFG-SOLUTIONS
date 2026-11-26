@@ -65,6 +65,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -430,6 +431,16 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [equilibrium-point](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/equilibrium-point/) | Easy |
 
+## Strings
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [remove-vowels](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/remove-vowels/) | Basic |
+
+## Program Remove Vowels String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [remove-vowels](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/remove-vowels/) | Basic |
+
 <!---GeeksForGeeks Tags End-->
 
 
@@ -493,7 +504,9 @@ Contains topicwise list of solved problems.
 
 
 
+
 <hr>
+
 
 
 
@@ -873,7 +886,13 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [alternate-positive-negative](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/alternate-positive-negative/) | Easy |
 
+## GE
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [remove-vowels](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/remove-vowels/) | Basic |
+
 <!---GeeksForGeeks Companies End-->
+
 
 
 
