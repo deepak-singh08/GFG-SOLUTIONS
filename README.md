@@ -66,6 +66,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -91,6 +92,7 @@ Contains topicwise list of solved problems.
 | [array-end-insert](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/array-end-insert/) | Basic |
 | [array-insert-at-index](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/array-insert-at-index/) | Basic |
 | [array-leaders](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/array-leaders/) | Easy |
+| [array-or-list-traversal](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/array-or-list-traversal/) | Basic |
 | [array-search](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/array-search/) | Basic |
 | [count-odd-and-even](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/count-odd-and-even/) | Basic |
 | [count-smaller-in-array](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/count-smaller-in-array/) | Basic |
@@ -441,7 +443,13 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [remove-vowels](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/remove-vowels/) | Basic |
 
+## Array Or List Traversal
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [array-or-list-traversal](https://github.com/deepak-singh08/GFG-SOLUTIONS/tree/main/array-or-list-traversal/) | Basic |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
